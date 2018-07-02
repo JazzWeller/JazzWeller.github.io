@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Jazz Weller's Online Portfolio
 description: A website created to show anyone interested about what I have done with Computer Science
+github:
+  is_project_page: false
